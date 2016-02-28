@@ -1,0 +1,21 @@
+#like {
+    background-color: lightblue;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid darkblue;    
+}
+
+#unlike {
+    background-color: lightcoral;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    border: 2px solid red;  
+    color: white;
+    font-weight: 800;
+}
+
+body {
+    background: lightgrey;
+}
